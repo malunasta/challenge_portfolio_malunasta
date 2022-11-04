@@ -20,7 +20,7 @@ _Subtask 4_
 
 Aplikacja jest bazą zawodników piłki nożnej a więc służy do wprowadzania zawodników oraz ich wyszukiwania według określonych kryteriów tj.: wiek, pozycja, klub, recenzja.
 
-Aplikacja posiada następujące fukcje: 
+Aplikacja posiada następujące funkcje: 
 * wprowadzania nowego zawodnika
 * wyszukiwania zawodnika z bazy - okienko wyszukaj 
 * sortowania zawodników z listy zawodników według określonych kryteriów tj.:imie, nazwisko, wiek, pozycja, klub, recenzja. 
