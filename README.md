@@ -32,13 +32,13 @@ Interfejs aplikacji jest zwykły, prosty lecz mało przejrzysty. Skoro aplikacja
 
 Błędy występujące w aplikacji:
 * formularz dodawania nowego zawodnika pozwala na wprowadzenie błędnych danych, aplikacja nie weryfikuję czy wprowadzane dane mają sens, czy są poprawne jak np.:
-        - wprowadzenie wieku gracza 
-        - wprowadzenie numeru telefonu 
-        - wprowadzenie wagi
-        - wprowadzenie wzrostu
-        - wprowadzenie poziomu rozgrywek 
-        - wprowadzenie pozycji alternatywnej
-        - wprowadzenie linku z youtub 
+        *  wprowadzenie wieku gracza 
+        *  wprowadzenie numeru telefonu 
+        *  wprowadzenie wagi
+        *  wprowadzenie wzrostu
+        *  wprowadzenie poziomu rozgrywek 
+        *  wprowadzenie pozycji alternatywnej
+        *  wprowadzenie linku z youtub 
 
 
 
