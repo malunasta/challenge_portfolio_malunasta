@@ -45,6 +45,9 @@ wprowadzenie wieku gracza
 *  data meczu
 
 
+---
+
+
 __TASK 2__
 
 _Subtask 1_
