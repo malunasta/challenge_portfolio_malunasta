@@ -28,17 +28,23 @@ Aplikacja posiada następujące funkcje:
 
 Wprowadzanie nowych graczy do systemu jest dość intuicyjne, natomiast sortowanie ich według określonych kryterów nie jest do końca przejrzyste i jasne.
 
-Interfejs aplikacji jest zwykły, prosty lecz mało przejrzysty. Skoro aplikacja służy przede wszystkim do tworzenia bazy zawodników to pola takie jak dodaj gracza i gracze powinny być koło siebie i powinny być bardziej widoczne na stronie aplikacji.
+Interfejs aplikacji jest zwykły, prosty lecz mało przejrzysty. Skoro aplikacja służy przede wszystkim do tworzenia bazy zawodników oraz do przeglądania listy zawodnków więć pola takie jak dodaj gracza i gracze powinny być koło siebie i powinny być bardziej widoczne na stronie aplikacji.
 
-Błędy występujące w aplikacji:
-* formularz dodawania nowego zawodnika pozwala na wprowadzenie błędnych danych, aplikacja nie weryfikuję czy wprowadzane dane mają sens, czy są poprawne jak np.:
-* wprowadzenie wieku gracza 
-* wprowadzenie numeru telefonu 
+
+Błędy występujące w aplikacji, które zauważyłam.
+1. Formularz dodawania nowego zawodnika pozwala na wprowadzenie błędnych danych, aplikacja nie weryfikuję czy wprowadzane dane mają sens, czy są poprawne jak np.:
+wprowadzenie wieku gracza 
+* wprowadzenie numeru telefonu
 * wprowadzenie wagi
 * wprowadzenie wzrostu
 * wprowadzenie poziomu rozgrywek 
 * wprowadzenie pozycji alternatywnej
-* wprowadzenie linku z youtub 
+* wprowadzenie linku z youtube 
+
+2. Formularz dodawania nowego meczu również pozwala na wprowadzanie błędnych danych
+*  data meczu
+
+
 
 
 
