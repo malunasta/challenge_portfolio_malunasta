@@ -47,7 +47,14 @@ wprowadzenie wieku gracza
 
 __TASK 2__
 
-https://drive.google.com/drive/folders/1k9RjJBA-aHFYg3A3fLUkri7Tp-GDD044
+_Subtask 1_
+
+https://docs.google.com/document/d/14DQpddUriOFgDkTt-HQaHb17z2wzMHkBYm9m3mlgvLU/edit
+
+_Subtask 2_ 
+
+https://docs.google.com/document/d/11t_nmsmwaJzC5X6l9NHOLQ98cIrVQ5ap3_8z-7MopBo/edit#heading=h.vdkpclaasg16 
+
 
 _Subtask 3_
 
