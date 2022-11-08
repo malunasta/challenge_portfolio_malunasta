@@ -47,6 +47,8 @@ wprowadzenie wieku gracza
 
 __TASK 2__
 
+https://drive.google.com/drive/folders/1k9RjJBA-aHFYg3A3fLUkri7Tp-GDD044
+
 _Subtask 3_
 
 Podczas pisania przypadków testowych, można wyłapać wiele brakujących informacji działania programu oraz można zweryfikować zgodność działania programu z oczekiwanym rezultatem. Podczas testowania aplikacji zawodników można było wyłapać brakujące informację np. tj: w okienku Główna pozycja, która jest daną wymaganą do wprowadzenia, najlepiej byłoby zamieścić listę z wyborem pozycji. Na pewno przyczyniłoby się to do mniejszej generacji błędów. Tak samo jak w okienku pozycja alternatywna.
