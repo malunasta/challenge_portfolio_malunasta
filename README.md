@@ -64,6 +64,20 @@ _Subtask 3_
 Podczas pisania przypadków testowych, można wyłapać wiele brakujących informacji działania programu oraz można zweryfikować zgodność działania programu z oczekiwanym rezultatem. Podczas testowania aplikacji zawodników można było wyłapać brakujące informację np. tj: w okienku Główna pozycja, która jest daną wymaganą do wprowadzenia, najlepiej byłoby zamieścić listę z wyborem pozycji. Na pewno przyczyniłoby się to do mniejszej generacji błędów. Tak samo jak w okienku pozycja alternatywna.
 
 
+---
+
+--TASK 3__
+
+_Subtask 1 and Subtask 2_
+
+https://docs.google.com/document/d/17KkguDfiumNTWRxSkzyzstLyTxxVpC1-Qg_Ck54OdM8/edit
+
+_Subtask 3_
+
+https://docs.google.com/document/d/1o_1JoK4-evRCQlDdMvlSXt9jIhnPwwuBMCS4E-b9-H4/edit
+
+
+
 
 
 
