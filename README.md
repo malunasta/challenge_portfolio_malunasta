@@ -77,6 +77,39 @@ _Subtask 3_
 https://docs.google.com/document/d/1o_1JoK4-evRCQlDdMvlSXt9jIhnPwwuBMCS4E-b9-H4/edit
 
 
+---
+__TASK 4__
+
+_Subtask 1 and Subtask 2_
+
+
+
+_Subtask 3_
+
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Aplikacja Focusly została stworzona przede wszystkim do nauki medytacji, uważności jak również do świadomego oddychania.  
+
+2. Kto ma być użytkownikiem końcowym aplikacji?
+
+Użytkownikiem końcowym aplikacji jest osoba, która chciałaby wejść w świat medytacji, uważności, świadomego oddechu jak również ma dostęp do wiedzy z zakresu psychologii.
+
+3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+
+Według mnie aplikacja jest user friendly, jest dla mnie łatwa w obsłudze. Po zalogowaniu się do aplikacji mamy okienko, które posiada stałe 5 ikonek na dole ekranu telefonu, dzięki którymi łatwo przechodzić z jednej sekcji do drugiej. W każdej sekcji mamy wyszczególnione kategorie, co umożliwia nam szybsze i sprawniejsze odnalezienie interesującej nas dziedziny. Bardzo łatwo też spersonalizować swój profil, gdyż zaraz po zalogowaniu się mamy uzupełnić informację wybierając z listy rzeczy, którymi jesteśmy zainteresowani. Aplikacja posiada bardzo ciekawy interfejs, przedstawiony na lini osi, który zakłada 5 podstawowych aspektów nad którymi mamy pracować: 
+* mamy afirmację na dzień dobry i na dobranoc, 
+* dla początkujących wybieramy z listy zagadnienie, które chcemy poznać np. w moim przypadku jest to zagadnienie pt.:"Pożegnaj stress", 
+* cel a więc nad jaką sferą naszego życia chcemy pracować
+* dla Ciebie - po odpowiedzi na pytania apliakcja dopasowuję medytacja i nagrania dla nas
+* wyzwania - tutaj możemy sobie określić z czym chcemy pracować przez kolejne dni 
+
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+
+Myślę, że aplikacja jest dobrze zaprojektowana. Jest prosta w obsłudze, nie zawiero zbyt dużo funckjonalności co sprawia, że jest dość przejrzysta i łatwa w obsłudze. Po testach, które przeprowadziłam na apliacji, mogę zasugerować dodanie sekcji do mojego profilu np. "moje ulubione". W sekcji tej mogłabym znaleźć szybko swoją ulubioną muzykę i twórców. Przy czym przeglądając twórców czy muzykę dodałabym możliwość dodania właśnie tego twórcy czy tą muzykę do ulubionych.
+
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
+
 
 
 
