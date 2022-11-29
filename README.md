@@ -1,6 +1,5 @@
 # challenge_portfolio_malunasta
 
-
 __TASK 1__
 
 
@@ -181,7 +180,9 @@ SELECT * FROM `customers` WHERE `email`IS null;
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
+```sql
 SELECT * FROM `movies` WHERE `price` > 9 AND `movie_id` BETWEEN 2 AND 8;
+```
 
 <img width="661" alt="Subtask 3 10" src="https://user-images.githubusercontent.com/117283857/204610602-3b4e03cc-ac84-4863-80b4-ffaa2702a031.png">
 
