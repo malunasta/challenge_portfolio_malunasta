@@ -149,6 +149,10 @@ SELECT `title`,`price` FROM `movies` WHERE `price`< '7$';
 
 SELECT * FROM `actors` WHERE `actor_id` >=4 AND `actor_id` <=7;
 
+<img width="685" alt="Subtask 3 5" src="https://user-images.githubusercontent.com/117283857/204601016-8728426c-a6da-484a-885c-9bd031a246fd.png">
+
+
+
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
 SELECT * FROM `customers` WHERE `customer_id` IN (2,4,6);
