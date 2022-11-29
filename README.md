@@ -112,6 +112,13 @@ _Subtask 3_
   Główną różnicą testowania oprogramowania dla aplikacji natywnych jest weryfikacja procesu ich instalacji. W tym przypadku należy zainstalować  aplikację na dane urządzenie na którym będziemy przeprowadzać testy. Warto byłoby zapewnić jak największą ilość różnych jednostek testowych a więc telefonów, tabletów...  
   
 
+TASK 5
+
+Subtask 3
+
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+SELECT * FROM actors ORDER BY surname;
+
 
 
 
