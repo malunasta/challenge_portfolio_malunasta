@@ -157,6 +157,9 @@ SELECT * FROM `actors` WHERE `actor_id` >=4 AND `actor_id` <=7;
 
 SELECT * FROM `customers` WHERE `customer_id` IN (2,4,6);
 
+<img width="746" alt="Subtask 3 6" src="https://user-images.githubusercontent.com/117283857/204601072-05bf1be2-3981-4322-8f40-e8a42218f0d8.png">
+
+
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
 SELECT * FROM `customers` WHERE `customer_id` IN (1,3,5);
