@@ -142,6 +142,9 @@ SELECT * FROM movies WHERE `year_of_production` BETWEEN '1900' AND'1999';
 
 SELECT `title`,`price` FROM `movies` WHERE `price`< '7$';
 
+<img width="667" alt="Subtask 3 4" src="https://user-images.githubusercontent.com/117283857/204600987-c4c98f41-d6e6-4ee6-a5a2-535b42525c11.png">
+
+
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
 SELECT * FROM `actors` WHERE `actor_id` >=4 AND `actor_id` <=7;
