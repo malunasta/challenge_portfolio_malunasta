@@ -120,8 +120,7 @@ Subtask 3
 
 SELECT * FROM actors ORDER BY surname;
 
-![Subtask 3.1 ]
-<img src=”https://user-images.githubusercontent.com/117283857/204600823-9f29f8e8-b20f-44a9-b1de-cbf22eed2f49.png” width=”50%” height=”50%”></img> 
+![Subtask 3.1 ](https://user-images.githubusercontent.com/117283857/204600823-9f29f8e8-b20f-44a9-b1de-cbf22eed2f49.png)
 
 
 
