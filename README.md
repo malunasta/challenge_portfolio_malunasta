@@ -162,6 +162,9 @@ SELECT * FROM `customers` WHERE `customer_id` IN (2,4,6);
 
 SELECT * FROM `customers` WHERE `customer_id` IN (1,3,5);
 
+<img width="769" alt="Subtask 3 7" src="https://user-images.githubusercontent.com/117283857/204601103-650769e0-21f7-494b-b94b-a82e07c5526d.png">
+
+
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
 SELECT * FROM `actors` WHERE `name` LIKE 'An%'
