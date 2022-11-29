@@ -128,7 +128,7 @@ SELECT * FROM actors ORDER BY surname;
 
 SELECT * FROM movies WHERE `year_of_production`='2019'
 
-
+<img width="697" alt="Subtask 3 2" src="https://user-images.githubusercontent.com/117283857/204600901-e13ac5ea-46ab-4375-bc22-5d17b33b95df.png">
 
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
