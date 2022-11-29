@@ -135,6 +135,8 @@ SELECT * FROM movies WHERE `year_of_production`='2019'
 
 SELECT * FROM movies WHERE `year_of_production` BETWEEN '1900' AND'1999';
 
+<img width="742" alt="Subtask 3 3" src="https://user-images.githubusercontent.com/117283857/204600955-a2612506-c4d7-4c21-9ce0-1f3406913613.png">
+
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ 
 
