@@ -169,6 +169,9 @@ SELECT * FROM `customers` WHERE `customer_id` IN (1,3,5);
 
 SELECT * FROM `actors` WHERE `name` LIKE 'An%'
 
+<img width="671" alt="Subtask 3 8" src="https://user-images.githubusercontent.com/117283857/204601136-01bfed38-54cd-40e4-b20f-b178769d7d0d.png">
+
+
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
 SELECT * FROM `customers` WHERE `email`IS null;
