@@ -199,7 +199,7 @@ _Subtask 1_
 
 UPDATE `customers` SET `surname`='Miler' WHERE `customer_id`= 3;
 
-<img width="661" alt="https://user-images.githubusercontent.com/117283857/205994789-4cad632e-ae66-4d57-92fe-baabb60f1086.png">
+<img width="707" alt="6 11" src="https://user-images.githubusercontent.com/117283857/205994789-4cad632e-ae66-4d57-92fe-baabb60f1086.png">
 
 
 
