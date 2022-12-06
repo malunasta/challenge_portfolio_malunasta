@@ -221,7 +221,7 @@ UPDATE `customers` SET `email`= 'pati@mail.com' WHERE `customer_id`=4;
 
 SELECT `customers`.`name`, `customers`.`surname`, `movies`.`title` FROM `sale` JOIN `customers` ON `customers`.`customer_id`=`sale`.`customer_id` JOIN `movies` ON `movies`.`movie_id`=`sale`.`movie_id`;
 
-
+<img width="408" alt="6 14" src="https://user-images.githubusercontent.com/117283857/205999681-f52bc266-54fc-471e-a536-4df8b9a143b4.png">
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
 
@@ -232,7 +232,6 @@ UPDATE `customers` SET `pseudonym`= CONCAT(LEFT(name, 2), RIGHT(surname, 1));
 
 
 <img width="549" alt="6 15 2" src="https://user-images.githubusercontent.com/117283857/206029170-76bffe76-66e8-4759-9532-ff3079578943.png">
-
 
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 SELECT DISTINCT `movies`.`title` FROM `movies` JOIN `sale` ON `movies`.`movie_id`=`sale`.`movie_id`;
