@@ -199,6 +199,8 @@ _Subtask 1_
 
 UPDATE `customers` SET `surname`='Miler' WHERE `customer_id`= 3;
 
+<img width="661" alt="">
+
 
 
 
