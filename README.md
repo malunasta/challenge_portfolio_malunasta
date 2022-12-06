@@ -244,7 +244,7 @@ UPDATE `customers` SET `email`= 'pati@mail.com' WHERE `customer_id`=4;
 ```sql
 SELECT `customers`.`name`, `customers`.`surname`, `movies`.`title` FROM `sale` JOIN `customers` ON `customers`.`customer_id`=`sale`.`customer_id` JOIN `movies` ON `movies`.`movie_id`=`sale`.`movie_id`;
 ```
-
+<img width="408" alt="6 14" src="https://user-images.githubusercontent.com/117283857/205999681-f52bc266-54fc-471e-a536-4df8b9a143b4.png">
 
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
