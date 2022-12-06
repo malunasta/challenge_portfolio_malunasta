@@ -208,13 +208,14 @@ UPDATE `customers` SET `surname`='Miler' WHERE `customer_id`= 3;
 
 SELECT `customers`.`name`, `customers`.`email` FROM `sale` JOIN `customers` ON `customers`.`customer_id`=`sale`.`customer_id` WHERE `movie_id`=4;
 
-
+<img width="1172" alt="6 12" src="https://user-images.githubusercontent.com/117283857/205994841-67c32c45-96f7-4e3c-babe-519635e7e6aa.png">
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: [pati@mail.com](mailto:pati@mail.com)
 
 UPDATE `customers` SET `email`= 'pati@mail.com' WHERE `customer_id`=4;
 
-
+<img width="648" alt="6 13 1" src="https://user-images.githubusercontent.com/117283857/205994871-e778007d-07b0-4e9f-b137-bc2fa50fea5f.png">
+<img width="737" alt="6 13 2" src="https://user-images.githubusercontent.com/117283857/205994903-a6902a8d-86ea-4c4d-9d25-0940bcfe2fe6.png">
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
@@ -228,40 +229,29 @@ SELECT `customers`.`name`, `customers`.`surname`, `movies`.`title` FROM `sale` J
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 SELECT DISTINCT `movies`.`title` FROM `movies` JOIN `sale` ON `movies`.`movie_id`=`sale`.`movie_id`;
 
-
+<img width="803" alt="6 16" src="https://user-images.githubusercontent.com/117283857/205994955-86cf8a8a-4d0a-4371-a003-b6418f66b923.png">
 
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
 SELECT `name` FROM actors UNION SELECT `name` FROM customers ORDER BY `name`
+
+<img width="648" alt="6 17" src="https://user-images.githubusercontent.com/117283857/205994989-a5f5d545-1f2c-4aa7-aec8-9a6e729ddd80.png">
 
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
 UPDATE `movies` SET `price`=`price`+2.5 WHERE `movies`.`year_of_production`>2000;
 
+<img width="503" alt="6 18" src="https://user-images.githubusercontent.com/117283857/205995016-113704a2-7fb4-4357-8c12-0708b4f528d5.png">
 
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 SELECT `actors`.`name`, `actors`.`surname`, `movies`.`title` FROM `actors` JOIN `cast` ON `cast`.`actor_id`=`actors`.`actor_id` JOIN `movies` ON `movies`.`movie_id`=`cast`.`movie_id` WHERE `actors`.`actor_id`=4;
 
+<img width="1187" alt="6 19" src="https://user-images.githubusercontent.com/117283857/205995048-03f30546-21e9-4649-bee0-d01a60a6492d.png">
+
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
